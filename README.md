@@ -1,1 +1,1 @@
-## the first project
+## app.js入口文件，一切请求首先从这个文件开始处理过程
